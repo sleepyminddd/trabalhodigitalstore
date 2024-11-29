@@ -1,0 +1,11 @@
+.collections {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+  }
+  
+  .collection-img {
+    width: 292px;
+    height: 321px;
+    border-radius: 4px;
+  }  
